@@ -16,6 +16,10 @@ El programa realiza las siguientes acciones:
 - Calcula el promedio de todos los datos almacenados.
 - Muestra los valores del tercer arreglo y el promedio final.
 
+## ▶️ Captura de ejecución
+<img width="1600" height="846" alt="image" src="https://github.com/user-attachments/assets/4413aa95-5566-4314-823c-8eda4a501a2f" />
+
+
 ## ▶️ Instrucciones de ejecución
 1. Clonar el repositorio:
    ```bash
